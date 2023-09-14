@@ -1,0 +1,13 @@
+Tech_01, Calendar - Hittites, Kucadikadi, Yayoi 
+Tech_02, Domestication - Olmecs, Bantu, Shona
+Tech_03, Carpentry - Lapita 
+Tech_04, City Defense - Lạc Việt, Assyrians 
+Tech_05, Irrigation - Egyptians 
+Tech_06
+Tech_07, Fishing - Sahaptin 
+Tech_08, Masonry - Babylonians, Nubians, Hallstatt, Sivullirmiut 
+Tech_09, Bronze-Working - Akkadians, Zhou 
+Tech_10, Writing - Phoenicians, Phrygians 
+Tech_11, Wheel - Harappans, Mauryans, Minoans, Valdivians 
+Tech_12, Sailing - 
+Tech_13, Organized Warfare - Mycenaeans 
