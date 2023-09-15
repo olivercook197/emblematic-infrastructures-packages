@@ -1,3 +1,6 @@
+OTTOMANS
+
+ERA 1 (23)
 Tech_01, Calendar - Hittites, Kucadikadi, Yayoi 
 Tech_02, Domestication - Olmecs, Bantu, Shona
 Tech_03, Carpentry - Lapita 
@@ -11,3 +14,100 @@ Tech_10, Writing - Phoenicians, Phrygians
 Tech_11, Wheel - Harappans, Mauryans, Minoans, Valdivians 
 Tech_12, Sailing - 
 Tech_13, Organized Warfare - Mycenaeans 
+(24, 24)
+
+ERA 2 (24)
+Tech_01, Philosophy - Greeks, Hisatsinom
+Tech_02, Hydrology - Âu Lạc, Aksumites, Romans
+Tech_03, Trade Expeditions - Pohnpeians
+Tech_04, Fortifications - Celts, Chavín??, Goguryeo
+Tech_05, Standing Army - Teotihuacanos 1, Mayans
+Tech_06, Rhetoric - Kushans, Thracians, Goths
+Tech_07, Conquest - Northumbrians, Teotihuacanos 2, Persians
+Tech_08, Craftsmanship - Huns, Franks, Helvetii, Nabateans, Carthaginians
+Tech_09, Mounted Warfare - Garamantes
+Tech_10, Foreign Outposts - Hopewell, Haida, 
+Tech_11, Imperial Power - Ghanaians, Numidians
+Tech_12, Siege Tactics - Mongols
+(27, 51)
+
+ERA 3 (24)
+Tech_01, Theology - Aztecs, Khmer, Majapahit, Palas, Tibetans
+Tech_02, Feudalism - English, Swiss (Medieval)
+Tech_03, War Summons - Byzantines, Medang
+Tech_04, Seafaring Mastery - Tongans
+Tech_05, Chivalry - Teutons, Novgorodians
+Tech_06, Heavy Infantry - 
+Tech_07, Military Architecture - Norsemen, Mississippians, Chimú, Qusqu, Merina
+Tech_08, Alchemy - Swahili, Tang, Maori
+Tech_09, Guilds - Umayyads, Haudenosaunee, Malians, Saadians
+Tech_10, Furnace Steel - 
+(24, 75)
+
+ERA 4 (21)
+Tech_01, Three-Masted Ship - Sulu
+Tech_02, Naval Artillery - Venetians
+Tech_03, Centralised Power - Edo Japanese (Buff), Dutch, Mughals, Puebloans
+Tech_04, Gunpowder Warfare - 
+Tech_05, Movable Typeface - Joseon, Safavids
+Tech_06, Chartered Companies - Shaybanids, Ming, Spanish, Mapuche
+Tech_07, Humanism - 
+Tech_08, Supply Lines - Poles, Maasai, Kongolese, Omanis
+Tech_09, Siege Cannons - 
+Tech_10, Mercantalism - Saxons
+Tech_11, Flintlock - Zulu, Lakota
+(18, 93)
+
+ERA 5 (19)
+Tech_01, Encyclopedia - Siamese
+Tech_02, Carbine - Russians
+Tech_03, Steam Engine - Chileans, British
+Tech_04, Military Coordination - Persians, Merina
+Tech_05, Scientific Method - 
+Tech_06, Nationhood - Italians, Ethiopians, Hawaiians
+Tech_07, Line Formation - Austro-Hungarians
+Tech_08, Propeller - 
+Tech_09, Mechanization - Germans
+Tech_10, Electricity - Mexicans
+Tech_11, Combustion Engine - Swiss, Texians
+Tech_12, Microbiology - Costa Ricans
+Tech_13, Urban Planning - French
+Tech_14, Guerilla Warfare - 
+Tech_15, Aeronautics - 
+Tech_16, Wireless Telegraphy - 
+Tech_17, Trench Warfare - 
+(17, 110)
+
+ERA 6 (16)
+Tech_01, Aerial Warfare - 
+Tech_02, Civil Engineering - Australians
+Tech_03, Power Lines - Malaysians, Brazillians
+Tech_04, Research Institute - Kenyans, Indians
+Tech_05, Continuous Track - 
+Tech_06, Radar - Nigerians
+Tech_07, Naval Air Strategy - 
+Tech_08, Free Trade Theory - Turks
+Tech_09, Amphibious Warfare - 
+Tech_10, Uranium Enrichment - Soviets
+Tech_11, Rocket Science - 
+Tech_12, Computing - 
+Tech_13, Suburbs - Americans
+Tech_14, Social Housing - Ecuadorians, Egyptians
+Tech_15, Nuclear Fission - 
+Tech_16, Mechanised Harvesting - Icelanders, Swedes
+Tech_17, Mass Entertainment - 
+Tech_18, Insurrection Theory - 
+Tech_19, Fighter Jets - 
+Tech_20, Communication Satellites - Chinese
+Tech_21, Automation - Japanese
+Tech_22, Renewable Energy - 
+Tech_23, Composite Armour - 
+Tech_24, Covert Ops - 
+Tech_25, World-Wide Web - Swiss (Contemporary)
+Tech_26, 
+Tech_27, Exosuit - 
+Tech_28, Space Orbital - 
+Tech_29, Military Laser - 
+Tech_30, Neural Implant - 
+Tech_31, Fusion Reactor - 
+(16, 126)
