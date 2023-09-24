@@ -38,8 +38,8 @@ Tech_03, War Summons - Byzantines, Medang
 Tech_04, Seafaring Mastery - Tongans
 Tech_05, Chivalry - Teutons, Novgorodians
 Tech_06, Heavy Infantry - 
-Tech_07, Military Architecture - Norsemen, Mississippians, Chimú, Qusqu, Merina
-Tech_08, Alchemy - Swahili, Tang, Maori
+Tech_07, Military Architecture - Norsemen, Mississippians, Chimú, Qusqu
+_08, Alchemy - Swahili, Tang, Maori
 Tech_09, Guilds - Umayyads, Haudenosaunee, Malians, Saadians
 Tech_10, Furnace Steel - 
 (24, 75)
