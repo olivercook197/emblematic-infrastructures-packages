@@ -1,6 +1,6 @@
 OTTOMANS
 
-ERA 1 (23)
+ERA 1 
 Tech_01, Calendar - Hittites, Kucadikadi, Yayoi 
 Tech_02, Domestication - Olmecs, Bantu, Shona
 Tech_03, Carpentry - Lapita 
@@ -9,18 +9,18 @@ Tech_05, Irrigation - Egyptians
 Tech_06
 Tech_07, Fishing - Sahaptin 
 Tech_08, Masonry - Babylonians, Nubians, Hallstatt, Sivullirmiut 
-Tech_09, Bronze-Working - Akkadians, Zhou 
+Tech_09, Bronze-Working - Akkadians, Zhou, Caralans
 Tech_10, Writing - Phoenicians, Phrygians 
 Tech_11, Wheel - Harappans, Mauryans, Minoans, Valdivians 
 Tech_12, Sailing - 
 Tech_13, Organized Warfare - Mycenaeans 
-(24, 24)
 
-ERA 2 (24)
-Tech_01, Philosophy - Greeks, Hisatsinom
+
+ERA 2 
+Tech_01, Philosophy - Greeks, Hisatsinom, Nazca
 Tech_02, Hydrology - Âu Lạc, Aksumites, Romans
 Tech_03, Trade Expeditions - Pohnpeians
-Tech_04, Fortifications - Celts, Chavín??, Goguryeo
+Tech_04, Fortifications - Celts, Chavín, Goguryeo
 Tech_05, Standing Army - Teotihuacanos 1, Mayans
 Tech_06, Rhetoric - Kushans, Thracians, Goths
 Tech_07, Conquest - Northumbrians, Teotihuacanos 2, Persians
@@ -29,12 +29,12 @@ Tech_09, Mounted Warfare - Garamantes
 Tech_10, Foreign Outposts - Hopewell, Haida, 
 Tech_11, Imperial Power - Ghanaians, Numidians
 Tech_12, Siege Tactics - Mongols
-(27, 51)
 
-ERA 3 (24)
+
+ERA 3 
 Tech_01, Theology - Aztecs, Khmer, Majapahit, Palas, Tibetans
 Tech_02, Feudalism - English, Swiss (Medieval)
-Tech_03, War Summons - Byzantines, Medang
+Tech_03, War Summons - Byzantines, Medang, Taino
 Tech_04, Seafaring Mastery - Tongans
 Tech_05, Chivalry - Teutons, Novgorodians
 Tech_06, Heavy Infantry - 
@@ -42,9 +42,9 @@ Tech_07, Military Architecture - Norsemen, Mississippians, Chimú, Qusqu
 _08, Alchemy - Swahili, Tang, Maori
 Tech_09, Guilds - Umayyads, Haudenosaunee, Malians, Saadians
 Tech_10, Furnace Steel - 
-(24, 75)
 
-ERA 4 (21)
+
+ERA 4 
 Tech_01, Three-Masted Ship - Sulu
 Tech_02, Naval Artillery - Venetians
 Tech_03, Centralised Power - Edo Japanese (Buff), Dutch, Mughals, Puebloans
@@ -52,17 +52,17 @@ Tech_04, Gunpowder Warfare -
 Tech_05, Movable Typeface - Joseon, Safavids
 Tech_06, Chartered Companies - Shaybanids, Ming, Spanish, Mapuche
 Tech_07, Humanism - 
-Tech_08, Supply Lines - Poles, Maasai, Kongolese, Omanis
+Tech_08, Supply Lines - Poles, Maasai, Kongolese, Omanis, Inca
 Tech_09, Siege Cannons - 
 Tech_10, Mercantalism - Saxons
 Tech_11, Flintlock - Zulu, Lakota
-(18, 93)
 
-ERA 5 (19)
+
+ERA 5 
 Tech_01, Encyclopedia - Siamese
 Tech_02, Carbine - Russians
 Tech_03, Steam Engine - Chileans, British
-Tech_04, Military Coordination - Persians, Merina
+Tech_04, Military Coordination - Persians, Merina, Argentinians
 Tech_05, Scientific Method - 
 Tech_06, Nationhood - Italians, Ethiopians, Hawaiians
 Tech_07, Line Formation - Austro-Hungarians
@@ -76,14 +76,14 @@ Tech_14, Guerilla Warfare -
 Tech_15, Aeronautics - 
 Tech_16, Wireless Telegraphy - 
 Tech_17, Trench Warfare - 
-(17, 110)
 
-ERA 6 (16)
+
+ERA 6 
 Tech_01, Aerial Warfare - 
 Tech_02, Civil Engineering - Australians
 Tech_03, Power Lines - Malaysians, Brazillians
 Tech_04, Research Institute - Kenyans, Indians
-Tech_05, Continuous Track - 
+Tech_05, Continuous Track - Cubans
 Tech_06, Radar - Nigerians
 Tech_07, Naval Air Strategy - 
 Tech_08, Free Trade Theory - Turks
@@ -110,4 +110,4 @@ Tech_28, Space Orbital -
 Tech_29, Military Laser - 
 Tech_30, Neural Implant - 
 Tech_31, Fusion Reactor - 
-(16, 126)
+
